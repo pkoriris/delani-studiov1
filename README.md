@@ -15,7 +15,7 @@ Good understanding of Agile ways of working with certification as an Agile Teste
 Knowledge of BDD Python style/behave and Allure for reporting
 Knowledge of Selenium with Java
 Setup instructions - includes any scripts that need to be run if necessary
-The web application code can be clonned from: https://github.com/pkoriris/delani.git
+The web application code can be clonned from: https://github.com/pkoriris/delani-studiov1.git
 
 Live Link
 https://pkoriris.github.io/delani/
