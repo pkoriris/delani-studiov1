@@ -21,10 +21,8 @@ Live Link
 https://pkoriris.github.io/delani/
 
 BDD.
-See a small description of what the application does on the landing page.
-Enter my birthday through a form
-Choose what gender I am.
-Click the submit button to see what my Akan name would be
+Accept input from the form and give a response message once a submits input data
+
 
 Technologies used
 HTML
